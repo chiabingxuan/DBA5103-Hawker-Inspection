@@ -1,0 +1,9 @@
+node_id,type,name,short_name,address,postal_code,lat,lon,status,cooked_food_stalls,osrm_snap_m
+0,depot,DEPOT - West Coast-Jurong West Town Council (Boon Lay Office),Depot - Town Council (Boon Lay),"325 Boon Lay Place, Singapore 649886",649886,1.345433917027935,103.714106395859,Depot,0,10.0
+1,hawker,Jurong West Hawker Centre,Jurong West Hawker Centre,"Blk 50, Jurong West St 61, Singapore 648202",648202,1.3412641038830853,103.69724185257508,Existing (new),39,17.3
+2,hawker,Boon Lay Place Blk 221A/B (Boon Lay Place Market and Food Village),Boon Lay Place Market and Food Village,"Blk 221A/B, Boon Lay Place, Singapore 641221/642221",641221,1.3452240653958958,103.71280068056076,Existing,72,30.5
+3,hawker,Jurong West Street 52 Blk 505,Jurong West Street 52 Blk 505,"Blk 505, Jurong West Street 52, Singapore 640505",640505,1.3496572915944292,103.7184436782123,Existing,60,38.1
+4,hawker,Taman Jurong Market and Food Centre,Taman Jurong Market and Food Centre,"3, Yung Sheng Road, Singapore 618499",618499,1.3347210666007077,103.72158379761716,Existing,122,28.9
+5,hawker,Teban Gardens Road Blk 37A (Teban Gardens Market and Food Centre),Teban Gardens Market and Food Centre,"Blk 37A, Teban Garden Road, Singapore 601037",601037,1.3208310935185843,103.74274811937117,Existing,28,47.0
+6,hawker,West Coast Drive Blk 503 (Ayer Rajah Food Centre),Ayer Rajah Food Centre,"Blk 503, West Coast Drive, Singapore 120503",120503,1.3118030896284905,103.75975140548066,Existing,80,26.7
+7,hawker,Clementi West Street 2 Blk 726,Clementi West Street 2 Blk 726,"Blk 726, Clementi West Street 2, Singapore 120726",120726,1.303810731977092,103.76425074802,Existing,60,43.4
