@@ -1,0 +1,4 @@
+case,route,total_travel_min,back_at_depot
+Base (free flow),"[1, 3, 2, 4, 6, 8, 7, 5, 1]",46.08,16:16
+Base route under TomTom congestion,"[1, 3, 2, 4, 6, 8, 7, 5, 1]",68.87,16:39
+Re-optimised under TomTom congestion,"[1, 3, 2, 4, 6, 8, 7, 5, 1]",68.87,16:39
