@@ -1,0 +1,9 @@
+leg,depart_clock,band,factor,free_flow_min,travel_min
+Depot - Town Council (Boon Lay) -> Boon Lay Place Market and Food Village,08:30,08:00-10:00,1.47,1.61,2.36
+Boon Lay Place Market and Food Village -> Jurong West Hawker Centre,09:32,08:00-10:00,1.47,5.33,7.81
+Jurong West Hawker Centre -> Jurong West Street 52 Blk 505,10:40,10:00-12:00,1.47,5.95,8.76
+Jurong West Street 52 Blk 505 -> Teban Gardens Market and Food Centre,11:49,10:00-12:00,1.47,9.53,14.03
+Teban Gardens Market and Food Centre -> Clementi West Street 2 Blk 726,13:03,12:00-14:00,1.52,6.45,9.81
+Clementi West Street 2 Blk 726 -> Ayer Rajah Food Centre,14:13,14:00-16:00,1.53,3.48,5.32
+Ayer Rajah Food Centre -> Taman Jurong Market and Food Centre,15:18,14:00-16:00,1.53,9.11,13.92
+Taman Jurong Market and Food Centre -> Depot - Town Council (Boon Lay),16:32,16:00-18:00,1.49,4.62,6.86
